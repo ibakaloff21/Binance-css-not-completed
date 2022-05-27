@@ -1,0 +1,207 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400&display=swap');
+
+.basic {
+    font-family: 'Roboto', sans-serif;
+}
+
+.head-logo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.head-logo>a {
+    text-decoration-line: none;
+}
+
+.logo {
+    width: 140px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.menu {
+    width: 20px;
+    margin-right: 40px;
+}
+
+.head1 {
+    color: black;
+    margin-right: 30px;
+}
+
+.head2 {
+    color: black;
+    margin-right: 20px;
+    margin-left: 100px;
+}
+
+.head3 {
+    color: black;
+    background-color: rgb(252, 213, 53);
+    padding: 8px;
+    border: 1px solid rgb(252, 213, 53);
+    border-radius: 4px;
+}
+
+.head4 {
+    color: black;
+    margin-left: 80px;
+    margin-right: 20px;
+    padding: 5px;
+}
+
+
+
+
+.block1 {
+    height: 1000px;
+    background-image: url(fon.jpg);
+}
+.first-block {
+    margin: 0px 200px;
+    display: flex;
+    justify-content:space-around ;
+}
+
+.first-block1 {
+    padding-right: 8%;
+}
+
+.first-block div {
+    width: 50%;
+    float: left;
+    
+
+}
+
+.h1class {
+    font-size: 65px;
+    text-align: left;
+    padding-right: 120px;
+    padding-top: 100px;
+}
+
+.email1 {
+    height: 50px;
+    width: 300px;
+    border: 1px solid rgb(102, 102, 102);
+    border-radius: 4px;
+    padding-left: 15px;
+    font-size: 18px;
+}
+
+.go1 {
+    text-decoration-line: none;
+    color: black;
+    background-color: rgb(252, 213, 53);
+    border: 2px solid rgb(252, 213, 53);
+    border-radius: 4px;
+    padding: 11px 40px;
+    margin-left: 20px;
+    font-size: 21px;
+}
+
+.card1 {
+    padding-top: 135px;
+    width: 700px;
+}
+
+.finance1 div {
+float: left;
+width: 25%;
+text-align: left;
+}
+
+.finance1 {
+    padding-right: 5%;
+margin: 0px 0px 0px 200px;
+}
+.finance1 div>h2 {
+    font-size: 45px;
+}
+
+.finance1 div>p {
+    margin: 0px 120px 0px 0px;
+}
+
+.block2 {
+    padding: 100px 200px;
+}
+
+.second-block div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.second-block h3 {
+    font-size: 46px;
+}
+
+.second-block a {
+    text-decoration-line: none;
+    color: black;
+}
+
+table {
+    width: 100%;
+    font-size: 20px;
+    letter-spacing: 1%;
+}
+
+.capitaliz {
+    text-align: right;
+}
+table td {
+    text-align: center;
+}
+
+.names {
+    text-align: left;
+    padding: 15px;
+    
+}
+
+.second-block3 >h4 {
+    font-size: 30px;
+}
+
+.go2{
+    text-decoration-line: none;
+    color: black;
+    background-color: rgb(252, 213, 53);
+    border: 2px solid rgb(252, 213, 53);
+    border-radius: 4px;
+    padding: 11px 70px;
+    font-size: 21px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i {
+    border: solid rgb(112, 112, 112);
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+}
+
+.arrow {
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+}
